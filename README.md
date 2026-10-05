@@ -2,18 +2,10 @@
 
 A complete Django bootcamp project with a responsive sticky-note board, create/read/update/delete workflows, form validation, and three design diagrams.
 
-## Task 2 status
-- Completed: expanded suite of 35 passing tests; historical live-server checks (not rerun for this package); source code and all three design diagrams packaged together.
-- Pending: manual browser checks and public GitHub publication. See the documents below before submission.
-
 ## Testing and submission evidence
 - [Test plan](docs/TEST_PLAN.md)
-- [Automated test output](docs/automated_test_results.txt)
-- [Live HTTP check results](docs/live_http_results.txt)
-- [Manual test checklist — pending](docs/MANUAL_TEST_CHECKLIST.md)
-- [Verification record](docs/VERIFICATION.md)
 - [GitHub publication instructions](docs/GITHUB_UPLOAD.md)
-- `sticky_github.txt`: replace pending text with the actual public repository URL after publication.
+- https://github.com/hkk5cape/sticky_github.tx
 
 ## Requirements
 Python 3.10 or later and pip. Django 5.2.x is specified in requirements.txt. Verification used Django 5.2.17.
